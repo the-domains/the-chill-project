@@ -1,0 +1,28 @@
+name: The Chill Project
+favicon: null
+layout_spectrum: 0.7371360911056399
+typography_spectrum: 0.6403811234049499
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8849674721714109
+  lightness: 0.1255251185502857
+  saturation: 0.8517693181056529
+  rhythmicContrast: 0.26126433443278074
+purpose: []
